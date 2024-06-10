@@ -1,2 +1,2 @@
 # learning-log
-Learning log project from python crash course book by Eric Matthes
+Learning Log project from the Python Crash Course book by Eric Matthes
