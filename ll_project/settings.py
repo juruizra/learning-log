@@ -134,7 +134,7 @@ STATIC_URL = 'static/'
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
 # Platform.sh settings
-from platform import config
+from platform import Config
 
 config = Config()
 if config.is_valid_platform():
